@@ -1,0 +1,11 @@
+secret_key: "JeFvgCrMuvkoAJjkHgyaMDxku"
+
+redis_cache:
+  addrs:
+    server1: ":6379"
+
+pg_main:
+  addr: "ec2-46-137-79-235.eu-west-1.compute.amazonaws.com:5432"
+  user: "dappqhkvdtijmj"
+  database: "dac29daii8podm"
+  password: "08e4d1bb7208e5b6c8eda4d0a2275c4d91e4510c849be0e052d7f2ea609b4918"
